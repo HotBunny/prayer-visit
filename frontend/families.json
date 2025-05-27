@@ -1,0 +1,44 @@
+[
+  {
+    "name": "The Johnson Family",
+    "address": "123 Elm Street, Springfield",
+    "event": "Birthday Celebration",
+    "date": "2025-06-10",
+    "notes": "Please arrive at 6 PM. Light refreshments provided."
+  },
+  {
+    "name": "The Kim Family",
+    "address": "789 Oak Avenue, Lincoln",
+    "event": "Prayer for Recovery",
+    "date": "2025-06-12",
+    "notes": "Prayer starts at 7 PM sharp."
+  },
+  {
+    "name": "The Rivera Family",
+    "address": "456 Maple Drive, Cedarville",
+    "event": "Support During Loss",
+    "date": "2025-06-14",
+    "notes": "Gathering at 5 PM. Bring flowers or a card."
+  },
+  {
+    "name": "The Patel Family",
+    "address": "321 Birch Lane, Fairview",
+    "event": "New Baby Celebration",
+    "date": "2025-06-09",
+    "notes": "Come meet baby Aarav! Starts at 4 PM."
+  },
+  {
+    "name": "The Smith Family",
+    "address": "987 Pine Street, Oakwood",
+    "event": "Anniversary Prayer",
+    "date": "2025-06-11",
+    "notes": "Starts at 6:30 PM. Light meal after prayer."
+  },
+  {
+    "name": "The Chen Family",
+    "address": "654 Willow Way, Brookside",
+    "event": "House Blessing",
+    "date": "2025-06-13",
+    "notes": "Prayer at 7 PM. Feel free to bring a small gift."
+  }
+]
